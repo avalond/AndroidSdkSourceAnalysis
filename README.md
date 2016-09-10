@@ -3,6 +3,10 @@ ANDROID SDK 源码解析
 
 ![](https://github.com/yuxingxin/AndroidWidgetClassGraph/blob/master/img/android.jpg)
 
+#### GitHub小伙伴公众号，每周一篇大神人物专访，欢迎扫码关注！
+
+<img src="https://raw.githubusercontent.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/master/images/qrcode.jpg" width="156" height="156">
+
 =============================
 
 #####概要说明：
@@ -243,6 +247,18 @@ Class | 分析者 | 校对者 | 版本 | 发布时间
     	<td>StaticLayout源码解析</td>
     	<td>laobie</td>
     </tr>
+    <tr>
+      <td>SnackBar源码解析</td>
+      <td>cnLGMing</td>
+    </tr>
+    <tr>
+      <td>LauncherActivity源码解析</td>
+      <td>kaiyangjia</td>
+    </tr>
+    <tr>
+      <td>Html源码解析</td>
+      <td>DennyCai</td>
+    </tr>
     </tbody>
 </table>
 
@@ -293,15 +309,7 @@ Class | 分析者 | 校对者 | 版本 | 发布时间
       <td>未认领</td>
     </tr>
     <tr>
-     <td>Html源码解析</td>
-      <td>未认领</td>
-    </tr>
-    <tr>
      <td>ImageButton源码解析</td>
-      <td>未认领</td>
-    </tr>
-    <tr>
-     <td>LauncherActivity源码解析</td>
       <td>未认领</td>
     </tr>
     <tr>
@@ -451,3 +459,12 @@ GitHub小伙伴交流B群 523388744 (别重复加群)
 微博    [AndoridCJJ](http://weibo.com/chenjijun2011)
 
 GitHub  [android-cjj](https://github.com/android-cjj)
+
+
+------
+
+## 许可协议
+
+- [署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+------
